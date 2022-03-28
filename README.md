@@ -1,4 +1,4 @@
-<h1 align="center">Selamat datang di Panduan Aplikasi Mobile dan API OpenSID 👋</h1>
+<h1 align="center">Selamat datang di Panduan Aplikasi Mobile Layanan Mandiri dan OpenSID API 👋</h1>
 
 ### 🤔 Apa itu Aplikasi Mobile Layanan Mandiri OpenSID?
 
@@ -14,7 +14,7 @@ Aplikasi Mobile Layanan Mandiri OpenSID ini merupkan bagian dari aplikasi yang d
 
 **Strategi Pengembangan Aplikasi Mobile Layanan Mandiri OpenSID**
 
-Pengembangan Aplikasi Mobile mengikuti pengembangan layanan mandiri pada website yang dapat dilihat melalui demo website OpenSID https://github.com/OpenSID/OpenSID/edit/umum/README.md#-demo
+Pengembangan Aplikasi Mobile mengikuti pengembangan layanan mandiri pada website yang dapat dilihat melalui [demo website OpenSID](https://github.com/OpenSID/OpenSID/edit/umum/README.md#-demo) 
 
 
 **Aplikasi Mobile Layanan Mandiri OpenSID dikelola di Github untuk:**
