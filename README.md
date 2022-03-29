@@ -29,7 +29,7 @@ Pengembangan Aplikasi Mobile mengikuti pengembangan layanan mandiri pada website
 Pedoman pemasangan dan penggunaan Aplikasi Mobile Layanan Mandiri OpenSID dapat dilihat di wiki-mobile di https://github.com/OpenSID/wiki-mobile/wiki.
 
 ## 💻 DEMO
-Demo Aplikasi Mobile Layanan Mandiri OpenSID dapat diujicoba dengan download aplikasi di playstore dengan ketik opensid pada pencarian, kemudian klik install.  
+Demo Aplikasi Mobile Layanan Mandiri OpenSID dapat diujicoba dengan download aplikasi di Play Store dengan ketik opensid pada pencarian, kemudian klik instal, dan ikuti langkah-langkah penggunaan Aplikasi Demo pada halaman ini https://github.com/OpenSID/wiki-mobile/wiki/Login#login-aplikasi-demo.
 
 ### 💬 FORUM
 
